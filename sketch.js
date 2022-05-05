@@ -1,6 +1,6 @@
 /**
  * Proyecto de la clase 25
- * Barcos
+ * Tiro con arco épico. Etapa 4.
  */
 const Engine = Matter.Engine;
 const World = Matter.World;
